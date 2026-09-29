@@ -261,8 +261,3 @@ R: Simplemente copia el archivo `biblioteca.db` a otra ubicación.
 R: Sí, está disponible bajo licencia MIT.
 
 ---
-
-## 📞 Soporte
-
-Para reportar problemas o sugerencias, revisa el código y los comentarios incluidos en cada módulo.
-
