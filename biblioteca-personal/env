@@ -1,0 +1,28 @@
+# ============================================================
+# CONFIGURACIÓN DE MARIADB - Biblioteca Personal
+# ============================================================
+# IMPORTANTE: Completa los valores con tus credenciales reales
+# Este archivo NO debe ser compartido en repositorios públicos
+
+# Usuario de MariaDB (por defecto 'root')
+DB_USER=root
+
+# Contraseña de MariaDB (cambia esto por tu contraseña real)
+# Si no estableciste contraseña, deja en blanco
+DB_PASSWORD=root123
+
+# Host/servidor de MariaDB (por defecto 'localhost')
+DB_HOST=localhost
+
+# Puerto de MariaDB (por defecto 3306)
+DB_PORT=3306
+
+# Nombre de la base de datos (por defecto 'biblioteca_personal')
+DB_NAME=biblioteca_personal
+
+# ============================================================
+# NOTAS DE SEGURIDAD:
+# - Nunca compartas este archivo con credenciales reales
+# - Agrégalo a .gitignore si usas Git
+# - Usa contraseñas fuertes en producción
+# ============================================================
