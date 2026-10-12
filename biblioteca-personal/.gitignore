@@ -1,0 +1,25 @@
+   venv/
+   .env
+   __pycache__/
+   *.pyc
+   .vscode/
+   .idea/
+   *.db
+   *.sqlite
+
+============================================================
+               📚 BIBLIOTECA PERSONAL 📚
+============================================================
+
+¿Qué deseas hacer?
+
+1. Agregar nuevo libro
+2. Ver todos los libros
+3. Buscar libro
+4. Actualizar información de un libro
+5. Eliminar un libro
+6. Ver estadísticas
+7. Salir
+
+============================================================
+Selecciona una opción (1-7): 
