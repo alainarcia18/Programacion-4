@@ -192,20 +192,20 @@ python main.py
 ```
 
 Deberías ver el menú principal:
-═════════════════════════════════════════════════════════════
-📚 BIBLIOTECA PERSONAL 📚
-═════════════════════════════════════════════════════════════
+
+============================================================
+               📚 BIBLIOTECA PERSONAL 📚
+============================================================
 
 ¿Qué deseas hacer?
 
-Agregar nuevo libro
-Ver todos los libros
-Buscar libro
-Actualizar información de un libro
-Eliminar un libro
-Ver estadísticas
-Salir
+1. Agregar nuevo libro
+2. Ver todos los libros
+3. Buscar libro
+4. Actualizar información de un libro
+5. Eliminar un libro
+6. Ver estadísticas
+7. Salir
 
-═════════════════════════════════════════════════════════════
-Selecciona una opción (1-7):
-
+============================================================
+Selecciona una opción (1-7): 
